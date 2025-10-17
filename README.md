@@ -1,2 +1,2 @@
-# exercícios_estrutura_de_dados_javascript
+# Exercícios estrutura de dados - JavaScript
 Exercícios de estrutura de dados em javascript
